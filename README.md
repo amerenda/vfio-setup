@@ -59,3 +59,4 @@ More info on hooks: https://www.libvirt.org/hooks.html
 ## TODO
 * Optimize Kernel
 * Optimize vm xml setup with more hyper-v options
+* Optimize looking glass
